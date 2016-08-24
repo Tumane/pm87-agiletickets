@@ -45,4 +45,5 @@ public class SessaoTest {
 		Assert.assertTrue(sessao.podeReservar(2));
 	}
 
+	
 }
